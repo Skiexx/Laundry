@@ -7,7 +7,6 @@ namespace Postirushki.ViewModels
 {
     public class ViewModelBase : ReactiveObject
     {
-		//fdsfdsf
-        //גûאגûן
+        //ModelBase
     }
 }
