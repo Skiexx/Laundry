@@ -6,6 +6,8 @@ namespace Postirushki.ViewModels
 {
     public class MainWindowViewModel : ViewModelBase
     {
-        public string Greeting => "Welcome to Avalonia!";
+        public string TotalWashes => "Количество стирок\n во всех филиалах";
+        public string TotalCostCash => "Общая стоимость\n за нал расчет";
+        public string TotalCostBankTransfer => "Общая стоимость\n за безнал расчет";
     }
 }
