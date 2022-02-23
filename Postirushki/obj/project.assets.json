@@ -4357,24 +4357,31 @@
     ]
   },
   "packageFolders": {
-    "/home/skiexx/.nuget/packages/": {}
+    "C:\\Users\\duvan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skiexx/RiderProjects/Postirushki/Postirushki/Postirushki.csproj",
+      "projectUniqueName": "C:\\Users\\duvan\\source\\repos\\Laundry\\Postirushki\\Postirushki.csproj",
       "projectName": "Postirushki",
-      "projectPath": "/home/skiexx/RiderProjects/Postirushki/Postirushki/Postirushki.csproj",
-      "packagesPath": "/home/skiexx/.nuget/packages/",
-      "outputPath": "/home/skiexx/RiderProjects/Postirushki/Postirushki/obj/",
+      "projectPath": "C:\\Users\\duvan\\source\\repos\\Laundry\\Postirushki\\Postirushki.csproj",
+      "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\duvan\\source\\repos\\Laundry\\Postirushki\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/skiexx/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4429,7 +4436,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

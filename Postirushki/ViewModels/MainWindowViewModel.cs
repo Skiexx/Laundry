@@ -8,6 +8,7 @@ namespace Postirushki.ViewModels
 {
     public class MainWindowViewModel : ViewModelBase
     {
+
         public object? Password { get; set; }
 
         public object? Login { get; set; }
