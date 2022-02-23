@@ -16,5 +16,8 @@ build_property.ProjectDir = C:\Users\duvan\source\repos\Laundry\Postirushki\
 [C:/Users/duvan/source/repos/Laundry/Postirushki/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/duvan/source/repos/Laundry/Postirushki/Views/Admin.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/duvan/source/repos/Laundry/Postirushki/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
